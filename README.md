@@ -1,6 +1,6 @@
-# 4x6 monochrome bitmap font for rendering
+# 6x9 "monogram" monochrome bitmap font for rendering
 
-A compact bitmap font, designed to be legible in small or large resolutions.
+Monogram is a compact bitmap font, designed to be legible in small or large resolutions.
 
 ## Showcase
 
