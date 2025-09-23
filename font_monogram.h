@@ -1,5 +1,5 @@
 /**
- * 6x8 monochrome monogram bitmap font for rendering
+ * 6x9 "monogram" monochrome bitmap font for rendering
  * Author: Luiz Bills <luizbills@pm.me>
  *
  * License: Public Domain
@@ -11,7 +11,7 @@
 
 #include <stdint.h>
 
-// Constant: font8x8_basic
+// Constant: font_monogram
 // Contains unicode points U+0000 - U+007F (basic latin)
 uint8_t font_monogram[128][9] = {
     { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00}, // U+0000 (nul)
