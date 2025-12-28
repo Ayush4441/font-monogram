@@ -10,7 +10,7 @@ Monogram is a compact bitmap font, designed to be legible in small or large reso
 
 ## Encoding
 
-Every basic latin character (`U+0020` ~ `U+007E`) in the font is encoded row-wise in 9 bytes in [font_monogram.h](font_monogram.h).
+Every printable ascii character (`32` ~ `126`) in the font is encoded row-wise in 9 bytes in [font_monogram.h](font_monogram.h).
 
 The least significant bit of each byte corresponds to the first pixel in a row.
 
